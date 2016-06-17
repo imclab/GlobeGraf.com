@@ -3,12 +3,12 @@
 ##AI Code, Open Data & VR/AR/Web Visualizations
 
 for
-####Humans/Mother Earth
-####Activists/Artists
-####Data Scientists
-####Journalists
-####Educators
-####Story-tellers
+#####Humans/Mother Earth
+#####Activists/Artists
+#####Data Scientists
+#####Journalists
+#####Educators
+#####Story-tellers
 
 
 ###Mission
