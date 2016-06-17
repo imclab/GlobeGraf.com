@@ -1,5 +1,15 @@
 # GlobeGraf.com
 
+##AI Code, Open Data & VR/AR/Web Visualizations
+
+for
+####Humans/Mother Earth
+####Activists/Artists
+####Data Scientists
+####Journalists
+####Educators
+####Story-tellers
+
 
 ###Mission
 Transform the way we see,
